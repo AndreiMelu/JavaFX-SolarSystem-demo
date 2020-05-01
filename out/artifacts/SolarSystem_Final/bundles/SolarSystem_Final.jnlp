@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="SolarSystem_Final.jnlp">
+  <information>
+    <title>SolarSystem_Final</title>
+    <vendor>Unknown</vendor>
+    <description>SolarSystem_Final</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="SolarSystem_Final.jar" size="945648" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="1024" height="1024" main-class="SolarSystem"  name="SolarSystem_Final" />
+  <update check="background"/>
+</jnlp>
